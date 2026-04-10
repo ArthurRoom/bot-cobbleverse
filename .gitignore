@@ -1,1 +1,4 @@
-/tutupadinha.zip
+.env
+__pycache__/
+*.zip
+recorde.txt
